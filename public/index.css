@@ -1,0 +1,119 @@
+body{
+    margin:0%;
+    padding: 0%;
+    background-color: #1E0342;
+    color: whitesmoke;}
+    /* Adding animations to the ejs file */
+
+.app{
+    margin:0%;
+    padding:5px;
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-overflow: hidden;
+    display: block;
+    
+
+    
+    
+}
+.container{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    padding-right: 8px;
+    margin-right: 5px;
+
+
+}
+h1{
+    font-size: 60px;
+    font-weight: 100px;
+}
+.time{
+    padding:0%;
+    position:absolute;
+    bottom:3%;
+    border: whitesmoke solid 1px;
+    background-color: whitesmoke;
+    color: #1E0342;
+    margin-left: 10px;
+    height: 100px;
+    width:240px;
+    /* font-size: 16px; */
+    overflow: hidden;
+    font-size: 20px;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 whitesmoke, 0 6px 20px 0 #1E0342;
+    font-family: monospace;
+  
+    
+    
+
+}
+footer{
+    padding: 0%;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    
+    
+    
+}
+h1{
+    font-family:sans-serif;
+    text-align: center;
+
+}
+.typejoke{
+     font-size: 28px; 
+    font-family: monospace;
+    font-weight: 100px;
+    text-align: center;
+    justify-content: center;
+}
+.description-data{
+    font-size: 25px;
+}
+.typecontent{
+    font-size: 20px;
+}
+.description{
+    font-size: 25px;
+    font-family: monospace;
+}
+.footer{
+    text-align: center;
+}
+button{
+    margin-top: 40px;
+    height: 40px;
+    width: 300px;
+    background-color: whitesmoke;
+    color: #1E0342;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: monospace;
+    font-weight: 200px;
+    box-shadow: 1.5px 1.5px white;
+    border-color: whitesmoke;
+    cursor:pointer;
+}
+button:hover{
+
+    margin-top: 40px;
+height: 40px;
+width: 300px;
+background-color:#1E0342 ;
+color: whitesmoke;
+font-size: 20px;
+border-radius: 10px;
+font-family: monospace;
+font-weight: 200px;
+box-shadow: 1.5px 1.5px blue;
+border-color: whitesmoke;
+cursor:pointer;
+}
